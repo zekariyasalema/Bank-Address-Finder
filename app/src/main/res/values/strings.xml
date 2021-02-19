@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Bank Finder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="search_banks">search banks</string>
+    <string name="search_by_name">search by name</string>
+    <string name="search_by_address">search by address</string>
+    <string name="nearby_search">nearby search</string>
+    <string name="communicate">communicate</string>
+    <string name="about_us">about_us</string>
+    <string name="exit_app">exit_app</string>
+    <string name="exit">exit</string>
+    <string name="abay_bank_s_c">Abay Bank S.C.</string>
+    <string name="abyssinia">Abyssinia</string>
+    <string name="adiss">Adiss</string>
+    <string name="awash">Awash</string>
+    <string name="bunna">Bunna</string>
+    <string name="birhan">Birhan</string>
+    <string name="cbe">CBE</string>
+    <string name="coop">COOP</string>
+    <string name="dashen">Dashen</string>
+    <string name="debub_global">Debub Global</string>
+    <string name="development">Development</string>
+    <string name="enat_bank">Enat Bank</string>
+    <string name="hibret_bank">Hibret Bank</string>
+    <string name="anbessa">Anbessa</string>
+    <string name="nbe">NBE</string>
+    <string name="nib">NIB</string>
+    <string name="oromia">Oromia</string>
+    <string name="wegagen">Wegagen</string>
+    <string name="zemen">Zemen</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="title_activity_search">Map</string>
+    <string name="nearby_banks">Nearby Banks</string>
+    <string name="title_activity_near_by">Map</string>
+    <string name="get_near_by_banks">Get Near By Banks</string>
+    <string name="route">Route</string>
+    <string name="nearby_banksC">Nearby Banks</string>
+    <string name="get_banks">Get Banks</string>
+    <string name="banks_nearby_you">Banks Nearby you</string>
+    <string name="bank_address">Bank Address</string>
+
+</resources>

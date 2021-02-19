@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.android.gms.location.places.ui.PlacePicker.IntentBuilder android.content.Intent build(android.app.Activity)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+    </group>
+    <item android:title="@string/search_banks">
+        <menu>
+            <item
+                android:id="@+id/nav_name"
+                android:icon="@drawable/name"
+                android:title="@string/search_by_name" />
+            <item
+                android:id="@+id/nav_address"
+                android:icon="@drawable/address"
+                android:title="@string/search_by_address" />
+            <item
+                android:id="@+id/nav_search"
+                android:icon="@drawable/nearby"
+                android:title="@string/nearby_search" />
+        </menu>
+    </item>
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/about_us" />
+            <item android:title="@string/exit"
+                android:icon="@drawable/exit"
+                android:id="@+id/nav_Exit"
+               />
+
+
+        </menu>
+    </item>
+
+
+</menu>
